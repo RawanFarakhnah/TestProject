@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecycleProj</string>
+    <string-array name="listOfItem">
+      <item>rawan</item>
+        <item>sami</item>
+        <item>ahmad</item>
+        <item>osaid</item>
+        <item>asad</item>
+        <item>naje</item>
+        <item>rifat</item>
+        <item>sadiq</item>
+        <item>faiq</item>
+        <item>ali</item>
+
+    </string-array>
+</resources>
